@@ -1,0 +1,35 @@
+
+/* Задача на кнопку + -
+
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.counter {
+	display: inline-flex;
+	align-items: center;
+	user-select: none;
+	gap: 10px;
+}
+
+.counter__button_minus,
+.counter__button_plus {
+	flex:0 0 30px;
+	height: 30px;
+	border: 1px solid #000;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.counter__input input {
+	width: 100%;
+	background-color: #fff;
+	border: none;
+	text-align: center;
+} */
